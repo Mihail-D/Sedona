@@ -459,18 +459,6 @@ input::-webkit-inner-spin-button {
   background-color: #81b3d2;
 }
 
-.city-description {
-  background-image: url("./img/jpg/advert-bg-1.jpg");
-  background-repeat: no-repeat;
-  background-position: 100% 0;
-}
-
-.el-diablo-bridge {
-  background-image: url("./img/jpg/advert-bg-2.jpg");
-  background-repeat: no-repeat;
-  background-position: 100% 0;
-}
-
 .city-presentation .city-services,
 .city-presentation .particular-qualities {
   display: flex;
