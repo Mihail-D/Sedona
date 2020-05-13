@@ -460,13 +460,13 @@ input::-webkit-inner-spin-button {
 }
 
 .city-description {
-  background-image: url('/img/jpg/advert-bg-1.jpg');
+  background-image: url("./img/jpg/advert-bg-1.jpg");
   background-repeat: no-repeat;
   background-position: 100% 0;
 }
 
 .el-diablo-bridge {
-    background-image: url('/img/jpg/advert-bg-2.jpg');
+  background-image: url("./img/jpg/advert-bg-2.jpg");
   background-repeat: no-repeat;
   background-position: 100% 0;
 }
@@ -1100,8 +1100,6 @@ input::-webkit-inner-spin-button {
 .check-input:focus + .check-box {
   box-shadow: 0 0 0 0.1em #7ed321;
 }
-
-
 
 .catalog-controls {
   width: 1200px;
